@@ -94,7 +94,7 @@
 
 - 💼 LinkedIn: [hariharan-p-536b4141b](https://www.linkedin.com/in/hariharan-p-536b4141b/)
 - 🏆 HackerRank: [Hariharan8072007](https://www.hackerrank.com/profile/Hariharan8072007)
-- 📧 Email: _add your email here_
+- 📧 Email:haribytex.dev@gmail.com
 
 ---
 
